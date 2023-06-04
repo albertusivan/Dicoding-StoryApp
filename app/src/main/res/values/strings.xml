@@ -1,0 +1,29 @@
+<resources>
+    <!-- TODO: App Title -->
+    <string name="app_name">SUB1INTERMEDIATE</string>
+
+    <!-- TODO: String asset -->
+    <string name="login">Login</string>
+    <string name="signup">Signup</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">register</string>
+    <string name="nothaveacc">Dont have an account?</string>
+    <string name="haveacc">Already have an account?</string>
+    <string name="storydesc">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur rhoncus ultricies tincidunt. Proin maximus dui hendrerit, luctus risus non, volutpat magna</string>
+    <string name="date">Date</string>
+    <string name="logout">Logout</string>
+    <string name="upload">Upload</string>
+    <string name="gallery">Gallery</string>
+    <string name="camera">Camera</string>
+    <string name="description">Description</string>
+    <string name="map">Map</string>
+    <string name="cobalagi">Coba Lagi</string>
+
+    <!-- TODO: Content Description -->
+    <string name="ilustration_login">ilustration login</string>
+    <string name="ilustration_signup">ilustration signup</string>
+    <string name="add_story">add story</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
